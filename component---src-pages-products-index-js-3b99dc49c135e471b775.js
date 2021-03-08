@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"7VS9":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),c=a("Bl7J"),o=a("o3Ty"),u=a("iAA0"),l=a("vrFN");t.default=function(e){var t=e.data.allStrapiProduct.edges.map((function(e){return e.node}));return r.a.createElement(c.a,null,r.a.createElement(l.a,{seo:{title:"Products"}}),r.a.createElement(o.a,null,"Products"),r.a.createElement(u.a,{products:t}))}}}]);
+//# sourceMappingURL=component---src-pages-products-index-js-3b99dc49c135e471b775.js.map
