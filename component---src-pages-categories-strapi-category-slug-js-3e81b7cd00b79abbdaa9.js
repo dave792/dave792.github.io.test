@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{zcOS:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),l=t("Bl7J"),c=t("o3Ty"),o=t("iAA0"),i=t("vrFN");a.default=function(e){var a=e.data,t=a.strapiCategory.products,n={title:a.strapiCategory.name};return r.a.createElement(l.a,null,r.a.createElement(i.a,{seo:n}),r.a.createElement("div",null,r.a.createElement(c.a,null,a.strapiCategory.name),r.a.createElement(o.a,{products:t})))}}}]);
-//# sourceMappingURL=component---src-pages-categories-strapi-category-slug-js-3e81b7cd00b79abbdaa9.js.map
